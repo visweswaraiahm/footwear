@@ -1,4 +1,6 @@
 gucci
 puma
 reebok
+sparx
+fila
 etc
